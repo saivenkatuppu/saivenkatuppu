@@ -112,7 +112,6 @@ Linux (RHEL, Ubuntu, CentOS) • Shell Scripting (Bash)
 
 ## 📬 Let's Connect!
 
-## 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/saivenkat-uppu" target="_blank">

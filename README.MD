@@ -73,11 +73,28 @@ Linux (RHEL, Ubuntu, CentOS) • Shell Scripting (Bash)
 
 ---
 
-## 📊 GitHub Stats
+---
 
-![](https://github-readme-stats.vercel.app/api?username=saivenkatuppu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=saivenkatuppu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saivenkatuppu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 Contribution & Activity Graphs  
+
+<p align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saivenkatuppu&theme=redical&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=saivenkatuppu&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <!-- Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saivenkatuppu&theme=radical" alt="Profile Summary Card"/>
+</p>
+
+---
+
+
 
 ---
 

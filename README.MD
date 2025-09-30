@@ -92,6 +92,11 @@ Linux (RHEL, Ubuntu, CentOS) • Shell Scripting (Bash)
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saivenkatuppu&theme=radical" alt="Profile Summary Card"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saivenkatuppu&theme=redical&hide_border=true&area=true&custom_title=Saivenkat%20Uppu%20-%20Monthly%20Contributions&interval=month" alt="Monthly Contribution Graph"/>
+</p>
+
+
 ---
 
 

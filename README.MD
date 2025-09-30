@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header&text=Hi%20👋%2C%20I'm%20SAIVENKAT%20UPPU&fontSize=40&fontColor=000000" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header&text=Hi%20👋%2C%20I'm%20Saivenkat%20Uppu&fontSize=40&fontColor=000000" alt="header"/>
 </p>
 
 <h2 align="center">🚀 Aspiring DevSecOps Engineer | Cloud & Automation Enthusiast (2025)</h2>

@@ -96,7 +96,7 @@ Linux (RHEL, Ubuntu, CentOS) • Shell Scripting (Bash)
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/saivenkatuppu" target="_blank">
+  <a href="https://linkedin.com/in/saivenkat-uppu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/saivenkatuppu" target="_blank">

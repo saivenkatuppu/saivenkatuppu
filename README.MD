@@ -1,7 +1,11 @@
-<!-- Banner Header -->
+<!-- Simple Banner Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:40C4F5,100:FFC371&height=120&section=header&text=Hi%20👋%2C%20I'm%20Saivenkat%20Uppu!&fontSize=40&fontColor=000000" alt="header"/>
+  <img src="https://raw.githubusercontent.com/saivenkatuppu/saivenkatuppu/main/banner.png" alt="Saivenkat Uppu Banner" width="100%" />
 </p>
+
+<h1 align="center" style="color:black;">Hi 👋, I'm Saivenkat Uppu</h1>
+<h3 align="center">Aspiring DevSecOps Engineer | Passionate About Cloud, CI/CD, and Automation 🚀</h3>
+
 
 
 <h2 align="center">🚀 Aspiring DevSecOps Engineer | Cloud & Automation Enthusiast (2025)</h2>

@@ -82,9 +82,9 @@ Linux (RHEL, Ubuntu, CentOS) • Shell Scripting (Bash)
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saivenkatuppu&theme=redical&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
+
 <p align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=saivenkatuppu&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saivenkatuppu&theme=flat&title=Experience,Commit&margin-w=15&margin-h=15&no-bg=true&no-frame=true&column=2&title_color=FFD700&text_color=000000" alt="Trophies"/>
 </p>
 
 <p align="center">
@@ -92,9 +92,6 @@ Linux (RHEL, Ubuntu, CentOS) • Shell Scripting (Bash)
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saivenkatuppu&theme=radical" alt="Profile Summary Card"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saivenkatuppu&theme=redical&hide_border=true&area=true&custom_title=Saivenkat%20Uppu%20-%20Monthly%20Contributions&interval=month" alt="Monthly Contribution Graph"/>
-</p>
 
 
 ---

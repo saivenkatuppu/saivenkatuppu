@@ -93,10 +93,25 @@ Linux (RHEL, Ubuntu, CentOS) • Shell Scripting (Bash)
 
 ## 📬 Let's Connect!
 
-- 🔗 [LinkedIn](https://linkedin.com/in/saivenkatuppu)  
-- 📂 [GitHub](https://github.com/saivenkatuppu)  
-- 📧 **Email:** saivenkatuppu10@gmail.com  
-- 📍 **Location:** India  
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/saivenkatuppu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/saivenkatuppu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:saivenkatuppu10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.instagram.com/saivenkatuppu" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://dev.to/saivenkatuppu" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
+  </a>
+</p>
 
 ---
 

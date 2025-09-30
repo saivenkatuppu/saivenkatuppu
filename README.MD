@@ -1,13 +1,11 @@
-<!-- Banner Section -->
-<p align="center" style="background-color:#ff1a1a; padding:20px; border-radius:15px;">
+<p align="center">
   <img src="https://raw.githubusercontent.com/saivenkatuppu/saivenkatuppu/main/banner.png" 
-       alt="Saivenkat Uppu Banner" width="100%" style="border-radius:12px;" />
+       alt="Saivenkat Uppu Banner" width="100%"/>
 </p>
 
-<!-- Header -->
-<h1 align="center" style="color:black; background-color:#ff1a1a; padding:15px; border-radius:10px;">
-  🚀 Aspiring DevSecOps Engineer | Cloud & Automation Enthusiast (2025)
-</h1>
+<h2 align="center" style="color:black;">
+ 🚀 Aspiring DevSecOps Engineer | Cloud & Automation Enthusiast (2025)
+</h2>
 
 <!-- Social Links -->
 <p align="center" style="background-color:#ff1a1a; padding:10px; border-radius:10px;">

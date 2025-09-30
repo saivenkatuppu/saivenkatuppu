@@ -105,11 +105,8 @@ Linux (RHEL, Ubuntu, CentOS) • Shell Scripting (Bash)
   <a href="mailto:saivenkatuppu10@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.instagram.com/saivenkatuppu" target="_blank">
+  <a href="https://www.instagram.com/iamthejustcreator" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://dev.to/saivenkatuppu" target="_blank">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
   </a>
 </p>
 

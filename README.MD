@@ -1,87 +1,71 @@
-<!-- Header -->
-<h1 align="center" style="color:red;">Hi 👋, I'm Saivenkat Uppu!</h1>
+<h1 align="center"><font color="red">Hi 👋, I'm Saivenkat Uppu!</font></h1>
 
-<h2 align="center" style="color:red;">🚀 Aspiring DevSecOps Engineer | Cloud & Automation Enthusiast (2025)</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/saivenkatuppu" target="_blank" style="color:red;">LinkedIn</a> •
-  <a href="mailto:saivenkatuppu10@gmail.com" style="color:red;">Email</a> •
-  <a href="https://github.com/saivenkatuppu" target="_blank" style="color:red;">GitHub</a>
-</p>
+<h2 align="center"><font color="red">🚀 Aspiring DevSecOps Engineer | Cloud & Automation Enthusiast (2025)</font></h2>
 
 ---
 
-<h2 align="center" style="color:red;">🚀 Skills & Tools</h2>
+<h2 align="center"><font color="red">🚀 Skills & Tools</font></h2>
 
 ### 🛠️ DevOps Tools
-- <span style="color:red;">Docker</span>  
-- <span style="color:red;">Kubernetes</span>  
-- <span style="color:red;">Jenkins</span>  
-- <span style="color:red;">Ansible</span>  
+- <font color="red">Docker</font>  
+- <font color="red">Kubernetes</font>  
+- <font color="red">Jenkins</font>  
+- <font color="red">Ansible</font>  
 
 ### ☁️ Cloud & IaC
-- <span style="color:red;">AWS</span>  
-- <span style="color:red;">Terraform</span>  
+- <font color="red">AWS</font>  
+- <font color="red">Terraform</font>  
 
 ### 💻 OS & Scripting
-- <span style="color:red;">Linux (RHEL, Ubuntu, CentOS)</span>  
-- <span style="color:red;">Shell Scripting (Bash)</span>  
+- <font color="red">Linux (RHEL, Ubuntu, CentOS)</font>  
+- <font color="red">Shell Scripting (Bash)</font>  
 
 ---
 
-<h2 align="center" style="color:red;">📁 Projects</h2>
+<h2 align="center"><font color="red">📁 Projects</font></h2>
 
-### 🔹 Terraform EC2 Instance
-- 🚀 Launch EC2 with key-pair, security group, and user-data script  
-- 📦 Infrastructure as Code using Terraform  
-
-### 🔹 Dockerized App
-- 🐳 Built Dockerfile for a sample Node.js app  
-- 📤 Tagged, built, and pushed to DockerHub  
-
-### 🔹 Jenkins CI/CD Pipeline
-- ⚡ Automated build, test, and deploy  
-- 🔗 GitHub integration with Webhooks  
-
-### 🔹 Kubernetes Practice
-- ☸️ Deployed pods & services in Minikube  
-- 🔧 Managed cluster with `kubectl`  
+- <font color="red">Terraform EC2 Instance</font>  
+- <font color="red">Dockerized App</font>  
+- <font color="red">Jenkins CI/CD Pipeline</font>  
+- <font color="red">Kubernetes Practice</font>  
 
 ---
 
-<h2 align="center" style="color:red;">💻 Tech Stack</h2>
+<h2 align="center"><font color="red">💻 Tech Stack</font></h2>
 
-- <span style="color:red;">AWS</span>  
-- <span style="color:red;">Jenkins</span>  
-- <span style="color:red;">Docker</span>  
-- <span style="color:red;">Kubernetes</span>  
-- <span style="color:red;">Terraform</span>  
-- <span style="color:red;">Ansible</span>  
-- <span style="color:red;">MongoDB</span>  
-- <span style="color:red;">MySQL</span>  
-- <span style="color:red;">Redis</span>  
-
----
-
-<h2 align="center" style="color:red;">📊 GitHub Stats</h2>
-
-*(Replace image stats with text since no pictures allowed)*  
-
-- Total commits, streaks, and top languages can be checked on your GitHub profile.  
+- <font color="red">AWS</font>  
+- <font color="red">Jenkins</font>  
+- <font color="red">Docker</font>  
+- <font color="red">Kubernetes</font>  
+- <font color="red">Terraform</font>  
+- <font color="red">Ansible</font>  
+- <font color="red">MongoDB</font>  
+- <font color="red">MySQL</font>  
+- <font color="red">Redis</font>  
 
 ---
 
-### 🧠 What I’ve Learned So Far
-✔️ <span style="color:red;">Provision infrastructure using Terraform</span>  
-✔️ <span style="color:red;">Automate builds with Jenkins pipelines</span>  
-✔️ <span style="color:red;">Create and manage containers using Docker</span>  
-✔️ <span style="color:red;">Monitor cloud resources using CloudWatch</span>  
-✔️ <span style="color:red;">Write efficient shell scripts for automation</span>  
+<h2 align="center"><font color="red">📊 GitHub Stats</font></h2>
+
+*(Plain text instead of images)*  
+- <font color="red">Total Commits: Check profile</font>  
+- <font color="red">Top Languages: Auto-detected by GitHub</font>  
 
 ---
 
-### 📬 Let's Connect!
-- 🔗 [LinkedIn](https://linkedin.com/in/saivenkatuppu)  
-- 📂 [GitHub](https://github.com/saivenkatuppu)  
-- 📧 Email: **saivenkatuppu10@gmail.com**  
-- 📍 Location: India  
+<h2 align="center"><font color="red">🧠 What I’ve Learned So Far</font></h2>
+
+- <font color="red">Provision infrastructure using Terraform</font>  
+- <font color="red">Automate builds with Jenkins pipelines</font>  
+- <font color="red">Create and manage containers using Docker</font>  
+- <font color="red">Monitor cloud resources using CloudWatch</font>  
+- <font color="red">Write efficient shell scripts for automation</font>  
+
+---
+
+<h2 align="center"><font color="red">📬 Let's Connect!</font></h2>
+
+- 🔗 [<font color="red">LinkedIn</font>](https://linkedin.com/in/saivenkatuppu)  
+- 📂 [<font color="red">GitHub</font>](https://github.com/saivenkatuppu)  
+- 📧 <font color="red">Email: saivenkatuppu10@gmail.com</font>  
+- 📍 <font color="red">Location: India</font>  

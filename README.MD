@@ -1,96 +1,106 @@
 <!-- Header -->
-<h1 align="center"><font color="red">Hi 👋, I'm Sreekanth Paleti!</font></h1>
-<h2 align="center"><font color="red">🚀 DevOps Engineer | Cloud & Automation Enthusiast (2025)</font></h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header&text=Hi%20👋%2C%20I'm%20Saivenkat%20Uppu!&fontSize=40&fontColor=000000" alt="header"/>
+</p>
+
+<h2 align="center">🚀 Aspiring DevSecOps Engineer | Cloud & Automation Enthusiast (2025)</h2>
 
 <p align="center">
-  🔗 <a href="https://linkedin.com/in/sreekanthpaleti"><font color="red">LinkedIn</font></a> • 
-  📧 <a href="mailto:sreekanthpaleti1999@gmail.com"><font color="red">Email</font></a>
+  <a href="https://linkedin.com/in/saivenkatuppu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:saivenkatuppu10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/saivenkatuppu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
-# 🌟 <font color="red">DevOps & AWS Projects by Sreekanth Paleti</font>
+# 🌟 DevOps & AWS Projects by Saivenkat Uppu
 
-Hey there! 👋 I'm **Sreekanth Paleti**, a passionate DevSecOps & AWS fresher, currently undergoing professional training at **JoinDevOps**. This repository is a showcase of my hands-on learning and real-time practice projects.
+Hey there! 👋 I'm **Saivenkat Uppu**, a passionate **DevSecOps & AWS fresher**, currently undergoing professional training at **JoinDevOps**.  
+This repository is a showcase of my **hands-on learning and real-time practice projects**.
 
 ---
 
-## 🚀 <font color="red">Skills & Tools I'm Practicing</font>
+## 🚀 Skills & Tools I'm Practicing
 
 🛠️ **DevOps Tools**  
-<font color="red">Docker</font> • <font color="red">Kubernetes</font> • <font color="red">Jenkins</font> • <font color="red">Ansible</font> • <font color="red">Terraform</font> • <font color="red">Git & GitHub</font>
+Docker • Kubernetes • Jenkins • Ansible • Terraform • Git & GitHub
 
 ☁️ **AWS Services**  
-<font color="red">EC2</font> • <font color="red">VPC</font> • <font color="red">IAM</font> • <font color="red">S3</font> • <font color="red">Route 53</font> • <font color="red">CloudWatch</font> • <font color="red">CloudFront</font> • <font color="red">Auto Scaling</font> • <font color="red">Load Balancer</font>
+EC2 • VPC • IAM • S3 • Route 53 • CloudWatch • CloudFront • Auto Scaling • Load Balancer
 
 💻 **OS & Scripting**  
-<font color="red">Linux (RHEL, Ubuntu, CentOS)</font> • <font color="red">Shell Scripting (Bash)</font>
+Linux (RHEL, Ubuntu, CentOS) • Shell Scripting (Bash)
 
 ---
 
-## 📁 <font color="red">My Project Highlights</font>
+## 📁 Project Highlights
 
-### 🔹 <font color="red">Terraform EC2 Instance</font>  
+🔹 **Terraform EC2 Instance**  
 ➡️ Launch EC2 with key-pair, SG, and user-data script  
-➡️ Infrastructure as Code using Terraform
+➡️ Infrastructure as Code using Terraform  
 
-### 🔹 <font color="red">Dockerized App</font>  
+🔹 **Dockerized App**  
 ➡️ Built a Dockerfile for a sample Node.js app  
-➡️ Tagged, built, and pushed to DockerHub
+➡️ Tagged, built, and pushed to DockerHub  
 
-### 🔹 <font color="red">Jenkins CI/CD Pipeline</font>  
+🔹 **Jenkins CI/CD Pipeline**  
 ➡️ Automated build, test, and deploy  
-➡️ GitHub integration with Webhooks
+➡️ GitHub integration with Webhooks  
 
-### 🔹 <font color="red">Kubernetes Practice</font>  
+🔹 **Kubernetes Practice**  
 ➡️ Deployed pods and services in Minikube  
-➡️ Used `kubectl` to manage cluster resources
+➡️ Used `kubectl` to manage cluster resources  
 
 ---
 
-## 💻 <font color="red">Tech Stack</font>
+## 💻 Tech Stack
 
-- <font color="red">PowerShell</font>  
-- <font color="red">Bash Script</font>  
-- <font color="red">TypeScript</font>  
-- <font color="red">AWS</font>  
-- <font color="red">Jenkins</font>  
-- <font color="red">Nginx</font>  
-- <font color="red">MongoDB</font>  
-- <font color="red">MySQL</font>  
-- <font color="red">Redis</font>  
-- <font color="red">GitHub Actions</font>  
-- <font color="red">Git</font>  
-- <font color="red">Ansible</font>  
-- <font color="red">Docker</font>  
-- <font color="red">Terraform</font>  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
 
 ---
 
-## 📊 <font color="red">GitHub Stats</font>
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Sreekanthp001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sreekanthp001&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreekanthp001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🧠 <font color="red">What I’ve Learned So Far</font>
-
-✔️ <font color="red">Provision infrastructure using Terraform</font>  
-✔️ <font color="red">Automate builds with Jenkins pipelines</font>  
-✔️ <font color="red">Create and manage containers using Docker</font>  
-✔️ <font color="red">Monitor cloud resources using CloudWatch</font>  
-✔️ <font color="red">Write efficient shell scripts for automation</font>  
+![](https://github-readme-stats.vercel.app/api?username=saivenkatuppu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=saivenkatuppu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saivenkatuppu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-## 📬 <font color="red">Let's Connect!</font>
+## 🧠 What I’ve Learned So Far
 
-- 🔗 [<font color="red">LinkedIn</font>](https://linkedin.com/in/sreekanthpaleti)  
-- 📧 <font color="red">Email: sreekanthpaleti1999@gmail.com</font>  
-- 📍 <font color="red">Location: Bangalore, India</font>  
+✔️ Provision infrastructure using Terraform  
+✔️ Automate builds with Jenkins pipelines  
+✔️ Create and manage containers using Docker  
+✔️ Monitor cloud resources using CloudWatch  
+✔️ Write efficient shell scripts for automation  
 
 ---
 
-⭐ *<font color="red">Thank you for checking out my work! Don't forget to star this repo if you find it useful.</font>*  
+## 📬 Let's Connect!
+
+- 🔗 [LinkedIn](https://linkedin.com/in/saivenkatuppu)  
+- 📂 [GitHub](https://github.com/saivenkatuppu)  
+- 📧 **Email:** saivenkatuppu10@gmail.com  
+- 📍 **Location:** India  
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=FF0000&height=100" alt="footer"/>
+</p>

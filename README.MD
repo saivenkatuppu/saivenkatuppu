@@ -1,7 +1,11 @@
-<!-- Simple Banner Header -->
+<!-- Banner Header -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/saivenkatuppu/saivenkatuppu/main/banner.png" alt="Saivenkat Uppu Banner" width="100%" />
 </p>
+
+<h1 align="center" style="color:black;">Hi 👋, I'm Saivenkat Uppu</h1>
+<h3 align="center">Aspiring DevSecOps Engineer | Passionate About Cloud, CI/CD, and Automation 🚀</h3>
+
 
 <h1 align="center" style="color:black;">Hi 👋, I'm Saivenkat Uppu</h1>
 <h3 align="center">Aspiring DevSecOps Engineer | Passionate About Cloud, CI/CD, and Automation 🚀</h3>

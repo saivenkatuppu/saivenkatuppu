@@ -6,7 +6,7 @@
 <h2 align="center">🚀 Aspiring DevSecOps Engineer | Cloud & Automation Enthusiast (2025)</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/saivenkatuppu" target="_blank">
+  <a href="https://linkedin.com/in/saivenkat-uppu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:saivenkatuppu10@gmail.com">
